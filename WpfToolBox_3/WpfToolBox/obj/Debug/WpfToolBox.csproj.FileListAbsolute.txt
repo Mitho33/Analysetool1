@@ -1,0 +1,252 @@
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\BilanzAnalyse.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\bin\Debug\WpfToolBox.exe.config
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\bin\Debug\WpfToolBox.exe
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\bin\Debug\WpfToolBox.pdb
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\BilanzAnalyse.baml
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.g.resources
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.exe
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.pdb
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\Bep.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\Bep.baml
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\Logo.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox\WpfToolBox\obj\Debug\Logo.baml
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\bin\Debug\WpfToolBox.exe.config
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\bin\Debug\WpfToolBox.exe
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\bin\Debug\WpfToolBox.pdb
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\Bep.g.cs
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\BilanzAnalyse.g.cs
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\Logo.g.cs
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\Bep.baml
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\BilanzAnalyse.baml
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\Logo.baml
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.g.resources
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.exe
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.pdb
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\bin\Debug\WpfToolBox.exe.config
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\bin\Debug\WpfToolBox.exe
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\bin\Debug\WpfToolBox.pdb
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\Bep.g.cs
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\BilanzAnalyse.g.cs
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\Logo.g.cs
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\Bep.baml
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\BilanzAnalyse.baml
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\Logo.baml
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.g.resources
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.exe
+C:\Users\USUB\Desktop\WpfToolBox\WpfToolBox\obj\Debug\WpfToolBox.pdb
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\bin\Debug\WpfToolBox.exe.config
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\bin\Debug\WpfToolBox.exe
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\bin\Debug\WpfToolBox.pdb
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\Bep.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\BilanzAnalyse.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\Logo.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\Bep.baml
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\BilanzAnalyse.baml
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\Logo.baml
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox.g.resources
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox.exe
+C:\Users\Michael Thomas\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox.pdb
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\bin\Debug\WpfToolBox.exe.config
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\bin\Debug\WpfToolBox.exe
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\bin\Debug\WpfToolBox.pdb
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\Bep.g.cs
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\BilanzAnalyse.g.cs
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\Logo.g.cs
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\Bep.baml
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\BilanzAnalyse.baml
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\Logo.baml
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox.g.resources
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox.exe
+C:\Users\USUB\Desktop\WpfToolBox_2\WpfToolBox\obj\Debug\WpfToolBox.pdb
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.exe.config
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.exe
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.pdb
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\Bep.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\BilanzAnalyse.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\Logo.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\Bep.baml
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\BilanzAnalyse.baml
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\Logo.baml
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.g.resources
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.exe
+C:\Users\Michael Thomas\Desktop\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.pdb
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.exe.config
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.exe
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.pdb
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\Bep.g.cs
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\BilanzAnalyse.g.cs
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\Logo.g.cs
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.cache
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.lref
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\Bep.baml
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\BilanzAnalyse.baml
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\Logo.baml
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.g.resources
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.Properties.Resources.resources
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.exe
+C:\Users\USUB\Desktop\c#\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.pdb
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.exe.config
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.exe
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.pdb
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\Bep.g.cs
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\BilanzAnalyse.g.cs
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\Logo.g.cs
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.cache
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.lref
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\Bep.baml
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\BilanzAnalyse.baml
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\Logo.baml
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.g.resources
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.Properties.Resources.resources
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.exe
+C:\Users\USUB\Desktop\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.pdb
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.exe.config
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.exe
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.pdb
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\Bep.g.cs
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\BilanzAnalyse.g.cs
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\Logo.g.cs
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\Bep.baml
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\BilanzAnalyse.baml
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\Logo.baml
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.g.resources
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.exe
+C:\Users\Michael Thomas\Desktop\2020_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.pdb
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.exe.config
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.exe
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.pdb
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\Bep.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\BilanzAnalyse.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\Logo.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\Bep.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\BilanzAnalyse.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\Logo.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.g.resources
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.exe
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Ziel\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.pdb
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.exe.config
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.exe
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.pdb
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\Bep.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\BilanzAnalyse.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\Logo.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\Bep.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\BilanzAnalyse.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\Logo.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.g.resources
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.exe
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.pdb
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.exe.config
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.exe
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\bin\Debug\WpfToolBox.pdb
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.AssemblyReference.cache
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\Bep.g.cs
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\BilanzAnalyse.g.cs
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\Logo.g.cs
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\MainWindow.g.cs
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\App.g.cs
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.cache
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox_MarkupCompile.lref
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\Bep.baml
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\BilanzAnalyse.baml
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\Logo.baml
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\MainWindow.baml
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.g.resources
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.Properties.Resources.resources
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.GenerateResource.cache
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.csproj.CoreCompileInputs.cache
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.exe
+D:\2021_1\ITA\Norwegen C#\Wpf_Bilanz_Bep\WpfToolBox_3\WpfToolBox\obj\Debug\WpfToolBox.pdb
